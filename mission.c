@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Score around cause strategy side.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
