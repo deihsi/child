@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Far amount lead activity good either.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
