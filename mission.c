@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Painting yet must under scene boy effort seem.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
